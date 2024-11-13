@@ -25,10 +25,6 @@ Este projeto é uma página web para apresentação do curso **Técnico em Desen
 
 O layout é responsivo e adaptável para diferentes dispositivos, incluindo desktops, tablets e smartphones.
 
-## 🖼️ Pré-visualização
-
-![Preview da Página](IMG/preview.png)
-
 ## 🔧 Como Utilizar
 
 1. Faça o clone do repositório:
@@ -37,17 +33,7 @@ O layout é responsivo e adaptável para diferentes dispositivos, incluindo desk
    ```
 2. Abra o arquivo `index.html` em seu navegador.
 
-## 💬 Contato
-
-- **Localização**: São Paulo, Brasil
-- **Telefone**: (11) 3333-3333
-- **Email**: ds@cps.sp.gov.br
-
 ## 🌐 Créditos
 
 - **Centro Paula Souza (CPS)**: Provedor do curso e responsável pelo conteúdo.
 - **Fontes de Dados**: [ABES Software](http://www.abessoftware.com.br/), [IDC](http://br.idclatin.com/).
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Consulte o arquivo `LICENSE` para mais informações.
